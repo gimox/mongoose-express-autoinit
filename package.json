@@ -1,7 +1,7 @@
 {
   "name": "mongoose-express-autoinit",
   "description": "Mongoose simple autoinit and load models",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Giorgio Modoni",
     "email": "modogio@gmail.com"
