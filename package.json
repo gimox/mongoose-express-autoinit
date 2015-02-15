@@ -1,0 +1,43 @@
+{
+  "name": "mongoose-express-autoinit",
+  "description": "Mongoose simple autoinit and load models",
+  "version": "0.0.2",
+  "author": {
+    "name": "Giorgio Modoni",
+    "email": "modogio@gmail.com"
+  },
+  "homepage": "https://github.com/gimox/mongoose-express-autoinit",
+  "main": "./lib/main",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gimox/mongoose-express-autoinit"
+  },
+  "bugs": {
+    "url": "https://github.com/gimox/mongoose-express-autoinit/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "mongoose",
+    "models",
+    "model",
+    "edspress",
+    "load"
+  ],
+  "license": "MIT",
+  "_npmUser": {
+    "name": "gimox",
+    "email": "modogio@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "gimox",
+      "email": "modogio@gmail.com"
+    }
+  ]
+}
